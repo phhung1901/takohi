@@ -1,0 +1,192 @@
+/*
+Theme Name: Takohi
+Theme URI: http://www.takohi.com
+Author: Alban FICHET
+Author URI: http://www.takohi.com
+Description: This is the best theme ever. But not as great as my motorbike. I love you Jona <3
+Version: 0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: takohi
+*/
+body {
+    padding:0;
+    background-color:#F2F2F2;
+}
+
+#wrap {
+   background-color:white;
+   width:100%;
+   padding-bottom:50px;
+}
+
+img {
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    border: 0px solid #999;
+    padding: 3px;
+}
+
+.post_content img {
+	display:inline;
+}
+
+.label-default a {
+    color:white;
+}
+
+.calendar {
+    text-align:center;
+    border-radius:4px;
+    width:90px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    float:left;
+    margin-right:15px;
+}
+
+.calendar .month {
+    color:#F2F2F2;
+    font-weight: bold;
+    padding-top:5px;
+    padding-bottom:5px;
+    border-bottom:1px solid white;
+    border-radius:4px 4px 0px 0px;
+    background-color:#FA5858;
+}
+
+.calendar .day {
+    background-color:#F2F2F2;
+    font-size:2em;
+}
+
+.calendar .year {
+    border:#F2F2F2 solid 1px;
+    border-radius:0px 0px 4px 4px;
+    background-color:white;
+}
+
+.comment-button {
+    float:right;
+}
+
+.post_content {
+    clear:both;
+}
+
+td {
+    padding:5px;
+}
+
+table {
+    margin:10px;
+}
+
+nav {
+    opacity:0.9;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+footer {
+    background-color: #F2F2F2;
+    padding-bottom:20px;
+    box-shadow: 0px -5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.comments-content {
+    margin-top:50px;
+    padding-top:25px;
+    margin-bottom:50px;
+    padding-bottom:25px;
+    border-top:1px solid #F2F2F2;
+    border-bottom:1px solid #F2F2F2;
+}
+
+.comment-quote {
+    font-size:1em;
+    margin-bottom:0;
+    margin-top:0;
+}
+
+header img, .carousel img  {
+    border:0;
+    padding:0;
+}
+
+header {
+    width:100%;
+    background-color:#370e61;
+    background-color:black;
+}
+
+.widget {
+    margin-top: 50px;
+    padding-left:30px;
+    min-height: 100%;
+    margin-bottom:0;
+}
+
+.widget ul {
+    list-style:none;
+    padding-left:0;
+}
+
+.wdg-container
+{
+    display:table;
+    width: 100%;
+    margin-top: -50px;
+    padding: 50px 0 0 0; /*set left/right padding according to needs*/
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.wdg-row
+{
+    height: 100%;
+    display: table-row;
+}
+
+.wdg-col
+{
+    display: table-cell;
+    float: none;
+    border:0px solid black;
+    border-radius:0px 0px 0px 0px;
+}
+
+.wdg-col h3 {
+    font-variant:small-caps;
+    border-bottom:1px solid #F2F2F2;
+    padding-bottom:15px;
+    margin-bottom:20px;
+}
+
+.aligncenter {
+    text-align:center;
+    display: inline-block;
+    vertical-align:top;
+	margin: 0 auto;
+}
+
+
+/*
+     FILE ARCHIVED ON 10:03:26 Jun 11, 2020 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:05:56 May 27, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.541
+  exclusion.robots: 0.14
+  exclusion.robots.policy: 0.133
+  esindex: 0.008
+  cdx.remote: 11.142
+  LoadShardBlock: 314.676 (3)
+  PetaboxLoader3.resolve: 179.016 (3)
+  PetaboxLoader3.datanode: 177.215 (4)
+  load_resource: 44.712
+*/

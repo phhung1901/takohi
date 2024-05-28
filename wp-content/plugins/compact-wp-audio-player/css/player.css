@@ -1,0 +1,65 @@
+.sc_player_container1 {
+display: inline;
+}
+.sc_player_container1 .myButton_play {
+background: transparent url(/web/20190512012820im_/http://www.takohi.com/wp-content/plugins/compact-wp-audio-player/image/round-play-button-black.png) no-repeat !important;
+cursor: pointer !important;
+width: 32px !important;
+height: 32px !important;
+border: none !important;
+position: relative;
+margin: 0 !important;
+padding: 0 !important;
+}
+.sc_player_container1 .myButton_stop {
+background: transparent url(/web/20190512012820im_/http://www.takohi.com/wp-content/plugins/compact-wp-audio-player/image/round-pause-button-black.png) no-repeat !important;
+cursor: pointer !important;
+width: 32px !important;
+height: 32px !important;
+border: none !important;
+position: relative;
+margin: 0 !important;
+padding: 0 !important;
+}
+
+.sc_player_container2 {
+max-width:56em;
+}
+.sc_player_container2 .myButton_play {
+background:url(/web/20190512012820im_/http://www.takohi.com/wp-content/plugins/compact-wp-audio-player/image/stop-play.jpg) no-repeat;
+background-position: -30px -30px;
+cursor:pointer;
+width: 40px;
+height: 30px;
+border: none;
+position:relative;
+}
+.sc_player_container2 .myButton_stop {
+background:url(/web/20190512012820im_/http://www.takohi.com/wp-content/plugins/compact-wp-audio-player/image/stop-play.jpg) no-repeat;
+background-position: -31px -90px;
+cursor:pointer;
+width: 40px;
+height: 30px;
+border: none;
+position:relative;
+}
+/*
+     FILE ARCHIVED ON 01:28:20 May 12, 2019 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 10:05:58 May 27, 2024.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.564
+  exclusion.robots: 0.139
+  exclusion.robots.policy: 0.13
+  esindex: 0.007
+  cdx.remote: 9.678
+  LoadShardBlock: 255.292 (3)
+  PetaboxLoader3.datanode: 86.871 (4)
+  PetaboxLoader3.resolve: 133.004 (2)
+  load_resource: 105.183
+*/
